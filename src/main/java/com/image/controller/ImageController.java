@@ -1,7 +1,6 @@
 package com.image.controller;
 
 import com.image.model.ImageUploaderDTO;
-import com.image.model.Size;
 import com.image.parser.ImageResizing;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
